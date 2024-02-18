@@ -17,12 +17,13 @@ This Python script tracks the price of a product on Amazon and sends an email al
   os - For accessing environment variables.
 
 # Usage
-  1. Install the requireed packages: requests, beautifulsoup4 lxml
+  1. Install the required packages: requests, beautifulsoup4 lxml
   2. Set up environment variables for your Gmail credentials:
+     
      'MY_EMAIL' -> Your Gmail address
      
      'PASSWORD' -> Your Gmail app password
-  4. Run the script
+  3. Run the script
 
 # Configuration
   'URL' -> The Amazon product URL you want to track.
